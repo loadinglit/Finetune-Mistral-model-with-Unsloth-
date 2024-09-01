@@ -1,3 +1,2 @@
-# Name                    Version                   Build  Channel
-pytorch                   2.3.0           py3.10_cuda12.1_cudnn8.9.2_0    
-cuda                      12.1            torchvision torchaudio pytorch-cuda=12.1 
+py3.10_cuda12.1_cudnn8.9.2_0    
+torchvision torchaudio pytorch-cuda=12.1 

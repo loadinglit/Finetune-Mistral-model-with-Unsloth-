@@ -1,4 +1,4 @@
 py3.10_cuda12.1_cudnn8.9.2_0    
 torchvision 
 torchaudio 
-pytorch-cuda=12.1 
+pytorch-cuda==12.1 

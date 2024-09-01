@@ -82,7 +82,5 @@ To set up the environment and run the notebook, follow these steps:
    Follow the instructions in the notebook to reproduce the fine-tuning process.
 
 Feel free to explore the notebook, run experiments, and provide any feedback or contributions.
-
 For questions or issues, please open an issue on this repository or contact me directly.
-
 Happy experimenting! 
